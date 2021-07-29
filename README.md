@@ -16,7 +16,7 @@ something went wrong along the way with my csv files.  For some reason, many dat
 
 
 ## Analysis 
-The purpose of this new analysis was to create a summary DataFrame and multiple line plot of the data specifically by city type (urbran, suburban, rural).  Instead of finding data for a specific cities in different areas, we were able to focus on each type of city as a whole and compare total rides, total drivers, total fares, average fare per ride, and average fare per driver in rural, suburban, and urban cities.  
+The purpose of this new analysis was to create a summary DataFrame and multiple line plot of the data specifically by city type (urbran, suburban, rural).  Instead of finding data for specific cities in different areas, we were able to focus on each type of city as a whole and compare total rides, total drivers, total fares, average fare per ride, and average fare per driver in rural, suburban, and urban cities.  
 
 
 ## Results
@@ -35,6 +35,6 @@ The most rides and drivers occur in urban areas, and the least rides and drivers
 ## Summary
 
 I can't help but wonder if the average fare per ride for rural riders is the highest due to the demand of drivers or possibly the distance and duration of the drive.  However, I do have a few reccomendations for the CEO based on my data analysis.  
-In rural and suburban areas, there were more rides then there are drivers, but in urban areas there were more drivers than rides, meaning some drivers did not get any work during this time period.  This can definitely be a cause for the average fare per driver being so low.  I would suggest giving incentives for some of these city drivers to work in more of the suburban areas near by, especially if they would make more money. 
+In rural and suburban areas, there were more rides than there are drivers, but in urban areas there were more drivers than rides, meaning some drivers did not get any work during this time period.  This can definitely be a cause for the average fare per driver being so low.  I would suggest giving incentives for some of these city drivers to work in more of the suburban areas near by, especially if they would make more money. 
 I would also suggest decreasing the rate in rural areas, so the average fare per ride also decreases.  This would probably encourage more people to take advantage of PyBer in rural areas if it was more affordable. 
 Lastly, I would suggest a further analysis on other factors that could be involved resulting in this current data, especially duration of ride and distance traveled.  Are rural rides more expensive because they are longer and take more time, or is it due to the lack of drivers?  And vice versa, are urban rides cheaper because they are traveling shorter distacnes, or is it because there is not as much of a demand.  Also, I would like to see more analysis on the day and time of day these rides occur.  Are rides more expensive during rush hour and late at night?  Do prices differ from weekends to weekdays?  All of this information can take this analysis much further. 
